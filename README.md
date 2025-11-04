@@ -3,7 +3,7 @@ COdingan
 
 <img width="1664" height="1204" alt="codingan soal 1" src="https://github.com/user-attachments/assets/9d629946-f677-4904-bde9-b6675978b9d6" />
 
-disini saya pakai 2 tipe data yaitu int dan long. Bedanya kalau long bisa menampung nominal lebih banyak di banding int.
+disini saya pakai 2 tipe data yaitu int dan long. Sebenarnya long hampir sama kayak int tapi bisa menampung nominal lebih banyak di banding int (Setau saya).
 kemudian juga pakai scanner untuk menginputkan bilangan.
 
 Saya pakai if yang di dalamnya ada for.
